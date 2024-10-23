@@ -5,7 +5,7 @@
 .gitattributes
 node_modules/
 public/
-
+.yarn/install-state.gz
 # Artifacts
 .next/
 out/
